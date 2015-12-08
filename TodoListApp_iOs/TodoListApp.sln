@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "TodoListApp", "TodoListApp\TodoListApp.fsproj", "{1453D842-B797-4103-B5D5-39A9473309EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Release|iPhone.Build.0 = Release|iPhone
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1453D842-B797-4103-B5D5-39A9473309EF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

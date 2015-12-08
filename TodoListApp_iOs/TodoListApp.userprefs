@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="TodoListApp/TodoListApp.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoListApp/AddTodoItemViewController.fs">
+    <Files>
+      <File FileName="TodoListApp/AppDelegate.fs" Line="1" Column="1" />
+      <File FileName="TodoListApp/AddTodoItemViewController.fs" Line="51" Column="88" />
+      <File FileName="TodoListApp/TodoListViewController.fs" Line="1" Column="1" />
+      <File FileName="TodoListApp/Main.fs" Line="1" Column="1" />
+      <File FileName="TodoListApp/ViewController.fs" Line="1" Column="1" />
+      <File FileName="TodoListApp/TodoItem.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Riccardo/Projects/TodoListApp/TodoListApp/AppDelegate.fs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

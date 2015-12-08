@@ -1,0 +1,4 @@
+[2015-12-08 00:16:18.593 GMT     8	WARNING	101705	AssemblyLoader.Silo	127.0.0.1:11111]	Unable to find directory C:\SmWorkShop\FSharpOrleans\SilosOutput\Applications; skipping.	
+[2015-12-08 00:16:23.436 GMT     8	WARNING	100701	WindowsPerfCountersStatistics	127.0.0.1:11111]	Windows perf counters not found -- defaulting to in-memory counters. Run OrleansCounterControl.exe as Administrator to create perf counters for Orleans.	
+[2015-12-08 00:16:26.983 GMT    28	WARNING	100150	Watchdog	127.0.0.1:11111]	.NET Runtime Platform stalled for 00:00:02.4518593 - possibly GC? We are now using total of 46MB memory. gc=2, 2, 2	
+[2015-12-08 00:16:35.304 GMT    28	WARNING	100150	Watchdog	127.0.0.1:11111]	.NET Runtime Platform stalled for 00:00:04.2425849 - possibly GC? We are now using total of 47MB memory. gc=2, 2, 2	

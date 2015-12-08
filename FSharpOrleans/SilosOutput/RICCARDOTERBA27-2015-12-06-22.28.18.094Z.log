@@ -1,0 +1,2 @@
+[2015-12-06 22:28:20.129 GMT     8	WARNING	101705	AssemblyLoader.Silo	127.0.0.1:11111]	Unable to find directory C:\SM\FSharpOrleans\SilosOutput\Applications; skipping.	
+[2015-12-06 22:28:21.203 GMT     8	WARNING	100701	WindowsPerfCountersStatistics	127.0.0.1:11111]	Windows perf counters not found -- defaulting to in-memory counters. Run OrleansCounterControl.exe as Administrator to create perf counters for Orleans.	

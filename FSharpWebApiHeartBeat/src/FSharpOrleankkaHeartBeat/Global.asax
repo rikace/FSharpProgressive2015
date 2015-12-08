@@ -1,0 +1,1 @@
+<%@ Application Inherits="FSharpOrleankkaHeartBeat.Global" %>
